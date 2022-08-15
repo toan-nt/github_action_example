@@ -1,0 +1,4 @@
+name: CI
+defaults:
+  run:
+    shell: zsh -io pipefail {0}
